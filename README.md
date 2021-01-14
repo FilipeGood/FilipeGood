@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hello there! My name is Good, Filipe Good  😎😎
+ 
+ I'm a Software Developer currently working as a Data Engineer. My main passion is Data Science and Machine Learning. And that is what I mainly post in github!
+
+
+
 
 <!--
 **FilipeGood/FilipeGood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
