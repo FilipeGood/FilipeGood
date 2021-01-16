@@ -4,6 +4,30 @@
  Despite working as a Data Engineer, my goal is to work in projects related to Data Science and Machine Learning. In the meantime, while I don't work in that area, I try to learn and master the skills needed to be a great Data Scientist. I.e, to be a **Good** Data Scientist 😎
 
 
+### Repositories :computer:
+- <ins>**Deal Finder**</ins> (https://github.com/FilipeGood/Deal-Finder) - Web scraping using BeautifulSoup in order to find the best monitor prices
+- <ins>**Evaluate ML Algorithms**</ins> (https://github.com/FilipeGood/Evaluate-ML-Algorithms) - Simple python project that evaluates multiple ML algorithms in order to get know which algorithm performs the best
+- <ins>**Basic Machine Learning Projects**</ins> (https://github.com/FilipeGood/Basic-Machine-Learning-Projects) - contains different regression and classification projects, where I analyze the data, clean it and use it to predict someting
+- <ins>**Data Cleaning**</ins> (https://github.com/FilipeGood/Data-Cleaning) - This repository contains various methods/techniques for handling different sorts of data problems.
+- <ins>**Data Visualization and Analysis**</ins> (https://github.com/FilipeGood/Data-Visualization-and-Analysis) - contains jupyter notebooks with the code of two Data Visualization Courses.
+- <ins>**Mask Detection**</ins> (https://github.com/FilipeGood/Mask-Detection) - Face Mask Detection system based on computer vision and deep learning using OpenCV and Tensorflow/Keras
+- <ins>**Face Recognition**</ins> (https://github.com/FilipeGood/Face-Recogniition) - Face Recognition with OpenCV 
+- <ins>**Face Detection**</ins> (https://github.com/FilipeGood/Face-Detection) - Face and eyes detection with OpenCV - Python
+- <ins>**Hacker Rank SQL Solutions**</ins> (https://github.com/FilipeGood/Hacker-Rank-SQL-Solutions) - Solutions for various SQL problems from Hacker Rank
+- <ins>**Feature Engineering**</ins> (https://github.com/FilipeGood/Feature-Engineering) - contains code related to feature engineering functions and feature engineering courses
+- <ins>**Web RTC video chat**</ins> (https://github.com/FilipeGood/web-rtc-video-chat) - simple video chat with webRTC and Scaledrone
+
+## Skills :bulb:
+- Python
+- Big Data with AWS
+- Pyspark
+- SQL
+- Machine Learning
+- Automated Machine Learning
+- Cloud Computing
+- Problem Solving
+
+
 ### Blog Posts ✍️ 
 - https://filipegood.medium.com/
 
@@ -12,7 +36,7 @@
  
 
 
-**📫 Feel free to contact me if you have a project idea or if you have a job :)🔭**
+**📫:email: Feel free to contact me if you have a project idea or if you have a job :)🔭**
 
 <!--
 **FilipeGood/FilipeGood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
