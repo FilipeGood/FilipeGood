@@ -17,7 +17,7 @@
 - <ins>**Feature Engineering**</ins> (https://github.com/FilipeGood/Feature-Engineering) - contains code related to feature engineering functions and feature engineering courses
 - <ins>**Web RTC video chat**</ins> (https://github.com/FilipeGood/web-rtc-video-chat) - simple video chat with webRTC and Scaledrone
 
-## Skills :bulb:
+### Skills :bulb:
 - Python
 - Big Data with AWS
 - Pyspark
