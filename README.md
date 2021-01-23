@@ -7,7 +7,7 @@
 ### Repositories :computer:
 - <ins>**Deal Finder**</ins> (https://github.com/FilipeGood/Deal-Finder) - Web scraping using BeautifulSoup in order to find the best monitor prices
 - <ins>**Evaluate ML Algorithms**</ins> (https://github.com/FilipeGood/Evaluate-ML-Algorithms) - Simple python project that evaluates multiple ML algorithms in order to get know which algorithm performs the best
-- <ins>**Youtube Most Viewed**</ins>(https://github.com/FilipeGood/Youtube-Most-Viewed/) - Try to replicate the "spotify year in review"
+- <ins>**Youtube Most Viewed**</ins> (https://github.com/FilipeGood/Youtube-Most-Viewed/) - Try to replicate the "spotify year in review"
 - <ins>**Basic Machine Learning Projects**</ins> (https://github.com/FilipeGood/Basic-Machine-Learning-Projects) - contains different regression and classification projects, where I analyze the data, clean it and use it to predict someting
 - <ins>**Data Cleaning**</ins> (https://github.com/FilipeGood/Data-Cleaning) - This repository contains various methods/techniques for handling different sorts of data problems.
 - <ins>**Data Visualization and Analysis**</ins> (https://github.com/FilipeGood/Data-Visualization-and-Analysis) - contains jupyter notebooks with the code of two Data Visualization Courses.
