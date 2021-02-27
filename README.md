@@ -5,7 +5,7 @@
 
 
 ### Repositories :computer:
-- <ins>**Deal Finder**</ins> (https://github.com/FilipeGood/Deal-Finder) - Web scraping using BeautifulSoup in order to find the best monitor prices (I just wanted a new monitor but didn't want to waste time looking for the best deals so instead, I spent time coding a project that would that for me :) ) 
+- <ins>**Deal Finder**</ins> (https://github.com/FilipeGood/Deal-Finder) - Web scraping using BeautifulSoup in order to find the best monitor prices ( I just wanted a new monitor but didn't want to waste time looking for the best deals so instead, I spent time coding a project that would that for me :) ) 
 - <ins>**Evaluate ML Algorithms**</ins> (https://github.com/FilipeGood/Evaluate-ML-Algorithms) - Simple python project that evaluates multiple ML algorithms in order to get know which algorithm performs the best
 - <ins>**Youtube Most Viewed**</ins> (https://github.com/FilipeGood/Youtube-Most-Viewed/) - Try to replicate the "spotify year in review"
 - <ins>**Basic Machine Learning Projects**</ins> (https://github.com/FilipeGood/Basic-Machine-Learning-Projects) - contains different regression and classification projects, where I analyze the data, clean it and use it to predict someting
